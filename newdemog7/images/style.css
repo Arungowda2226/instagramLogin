@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto',sans-serif;
+    text-align: center;
+}
+.box1{
+    border: 1px solid whitesmoke;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 200px;
+    margin-bottom: 0px;
+    margin-left: 600px;
+    padding-bottom: 0px;
+    background-color: whitesmoke;
+    
+}
+.logo h1{
+    font-family: 'pacifico',cursive ;
+    padding: 30px 0;
+    text-align: center;
+    
+}
+.usernamebox input{
+    width: 75%;
+    padding: 5px 0;
+   
+}
+.usernamebox{
+    padding-bottom: 10px;
+}
+.passwordbox input{
+    width: 75%;
+    padding: 5px 0;
+   
+}
+.passwordbox{
+    padding-bottom: 10px;
+}
+.loginbox button {
+    width: 75%;
+    padding: 10px 0;
+    background-color: rgba(10, 143, 191, 0.505);
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color:  rgba(10, 143, 191, 0.505);;
+}
+
+.loginbox{
+    padding-bottom: 10px;
+}
+.or{
+    font-size: x-large;
+    color: rgb(49, 48, 48);
+    padding-bottom: 20px;
+}
+.facebooklogin{
+    text-align: center;
+    
+}
+.facebooklogin img{
+    width: 30px;
+    height: 20px;
+}
+.facebooklogin span{
+    color: rgb(57, 57, 248);
+}
+.facebooklogin{
+    padding-bottom: 10px;
+}
+.forgotpossword{
+    color: rgb(180, 169, 218);
+}
+.signin{
+    border: 1px solid #f6ecec;
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+     margin: 100px; 
+    margin-left: 600px;
+    padding-top: -20px;
+    margin-top: 8px;
+    background-color: whitesmoke
+    
+}
+.signin h6{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+    
